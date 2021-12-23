@@ -252,7 +252,8 @@ subject,age,gender,educ,ses,engL1,answer,rating,condition,task,play_type,explana
 45,35,m,Completed High School,Near the bottom,"Yes, English is my first language.",This woman is looking to make some lawyer rich!,more,Baseline,Starbucks Ice,NA,NA
 46,27,f,Four-year college degree,In the middle,"Yes, English is my first language.",A Chicago woman is suing Starbucks for $5 million dollars for putting too much ice in drinks.,more,Baseline,Starbucks Ice,NA,NA
 46,27,f,Four-year college degree,In the middle,"Yes, English is my first language.",I think that Octopus is on its way to find its friend Dory.,more,Metaphor,Inky the Octopus,compare,finding nemo
-47,39,f,Two-year college degree,Near the bottom,"Yes, English is my first language.","Hey all you Starbucks drinkers every wonder if you are getting cheated in your ounces, well you may be!",more,Baseline,Starbucks Ice,NA,NA
+47,39,f,Two-year college degree,Near the bottom,"Yes, English is my first language.","Hey all you Starbucks drinkers every wonder if you are getting cheated in your ounces, well you may be!
+",more,Baseline,Starbucks Ice,NA,NA
 47,39,f,Two-year college degree,Near the bottom,"Yes, English is my first language.",Inky the Octopus got away the same way we would all somedays out to sea.,equal,Metaphor,Inky the Octopus,NA,NA
 48,58,m,Completed High School,Near the bottom,"Yes, English is my first language.","It will be interesting to see how this lands up!  Especially when you concider that when the ice is put in the glass, it always becomes more full due to the weight of the frozen water.",equal,Baseline,Starbucks Ice,NA,NA
 49,44,m,Two-year college degree,In the middle,"Yes, English is my first language.",No wonder why I am not as awake as i used to be.,more,Baseline,Starbucks Ice,NA,NA
@@ -344,7 +345,8 @@ subject,age,gender,educ,ses,engL1,answer,rating,condition,task,play_type,explana
 99,33,f,Four-year college degree,Near the bottom,"Yes, English is my first language.",The first eight legged escape artist makes the news today.,more,Sarcasm & Metaphor,Inky the Octopus,compare,escape artist
 100,33,f,Two-year college degree,In the middle,"Yes, English is my first language.","Good going, Inky! You deserve to be free!",more,Sarcasm & Metaphor,Inky the Octopus,NA,NA
 100,33,f,Two-year college degree,In the middle,"Yes, English is my first language.",Does this include the ice?,equal,Baseline,Starbucks Ice,NA,NA
-101,44,m,Master's or equivalent professional degree,Near the bottom,"Yes, English is my first language.","$5 million for 10 ounces wow, I understand her complaint but that's some expensive coffee!",more,Baseline,Starbucks Ice,NA,NA
+101,44,m,Master's or equivalent professional degree,Near the bottom,"Yes, English is my first language.","$5 million for 10 ounces wow, I understand her complaint but that's some expensive coffee!
+",more,Baseline,Starbucks Ice,NA,NA
 101,44,m,Master's or equivalent professional degree,Near the bottom,"Yes, English is my first language.","Way to go Inky, they can't keep you in that tank!",more,Sarcasm & Metaphor,Inky the Octopus,NA,NA
 102,26,m,Master's or equivalent professional degree,Near the top,"Yes, English is my first language.",She's a dumb ass.,equal,Baseline,Starbucks Ice,NA,NA
 102,26,m,Master's or equivalent professional degree,Near the top,"Yes, English is my first language.",That's pretty cool.,equal,Sarcasm & Metaphor,Inky the Octopus,NA,NA
